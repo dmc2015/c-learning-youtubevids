@@ -1,0 +1,12 @@
+
+ Sorted data: 
+item #0: 1
+item #1: 1
+item #2: 3
+item #3: 3
+item #4: 12
+item #5: 99
+item #6: 1321
+item #7: 1341
+item #8: 1891
+item #9: 12381

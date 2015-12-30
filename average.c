@@ -4,12 +4,12 @@ int main(void){
  int i, numberOfNums=0, total=0, value;
  float average;
 
- printf('How many numbers are to be read?');
- scanf("%d", &numberOfNum);
+ printf("How many numbers are to be read? ");
+ scanf("%d", &numberOfNums);
 
 
  for(i=0; i <numberOfNums; i++){
-  printf("What is the Value");
+  printf("What is the Value  ");
   scanf("%d", &value);
   total += value; //equivalent to total = total + value
   printf("Read %d\n", value);
